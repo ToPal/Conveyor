@@ -1,6 +1,6 @@
 {
-  "name": "Conveyor",
-  "version": "1.0.0",
+  "name": "dataconveyor",
+  "version": "0.0.1",
   "description": "Useful data processor which can make delay between processing of elements",
   "main": "index.js",
   "scripts": {
