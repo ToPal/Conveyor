@@ -1,0 +1,25 @@
+{
+  "name": "Conveyor",
+  "version": "1.0.0",
+  "description": "Useful data processor which can make delay between processing of elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ToPal/Conveyor.git"
+  },
+  "keywords": [
+    "delay",
+    "array",
+    "data",
+    "processing"
+  ],
+  "author": "ToPal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToPal/Conveyor/issues"
+  },
+  "homepage": "https://github.com/ToPal/Conveyor"
+}
